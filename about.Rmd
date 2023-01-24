@@ -1,10 +1,16 @@
 ---
-title: "About this site"
+title: "About Robert W. Walker, Ph. D."
 description: |
-  Some additional details about the website
+  More about the author and this website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](./img/profile.jpeg)
+
+
+Robert W. Walker is Associate Professor of Quantitative Methods in the [Atkinson Graduate School of Management](https://www.willamette.edu/mba/) of [Willamette University](https://www.willamette.edu) where I teach courses in data science and statistics.
+
+This is an example template for a Distill website.

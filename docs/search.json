@@ -2,11 +2,11 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About Robert W. Walker, Ph. D.",
+      "description": "More about the author and this website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2023-01-24T00:50:21-08:00"
+      "contents": "\n\nRobert W. Walker is Associate Professor of Quantitative Methods in the Atkinson Graduate School of Management of Willamette University where I teach courses in data science and statistics.\nThis is an example template for a Distill website.\n\n\n\n",
+      "last_modified": "2023-01-24T01:10:42-08:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-01-24T00:50:21-08:00"
+      "last_modified": "2023-01-24T01:10:42-08:00"
     }
   ],
   "collections": []
