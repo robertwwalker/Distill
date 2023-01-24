@@ -1,7 +1,7 @@
 ---
-title: "Distill Template"
+title: "A Distill Template"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to my website template. I hope you enjoy it!
 site: distill::distill_website
 ---
 
@@ -16,3 +16,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+Eventually, some examples of work will appear here.

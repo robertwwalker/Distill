@@ -1,7 +1,7 @@
 name: "Robert W. Walker"
 title: "Distill Portfolio: RWW"
 description: |
-  Distill Template
+  Here is a Distill Template
 output_dir: "docs"
 navbar:
   right:
